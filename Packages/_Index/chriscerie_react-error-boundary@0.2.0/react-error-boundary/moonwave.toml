@@ -1,0 +1,48 @@
+gitRepoUrl = "https://github.com/chriscerie/react-error-boundary"
+gitSourceBranch = "main"
+
+classOrder = [
+    "ReactErrorBoundary",
+    "ErrorBoundary",
+    "Error"
+]
+
+[docusaurus]
+tagline = "A robust error boundary library for Lua React."
+
+[home]
+enabled = true
+includeReadme = false
+
+[[home.features]]
+title = "Easy to Use"
+description = "react-error-boundary makes error handling easy. Error logging, reverting states, and displaying fallback components are all incredibly easy to implement."
+
+[[home.features]]
+title = "Flexible"
+description = "Whether you want a single error boundary to handle errors in your entire app or multiple boundaries to handle errors in individual components, the granularity is up to you."
+
+[[footer.links]]
+title = "Docs"
+
+[[footer.links.items]]
+label = "Introduction"
+href = "/docs/intro"
+
+[[footer.links.items]]
+label = "Getting Started"
+href = "/docs/GettingStarted"
+
+[[footer.links]]
+title = "Community"
+
+[[footer.links.items]]
+label = "GitHub"
+href = "https://github.com/chriscerie/react-error-boundary"
+
+[[footer.links]]
+title = "More"
+
+[[footer.links.items]]
+label = "License"
+href = "https://github.com/chriscerie/react-error-boundary/blob/main/LICENSE"

@@ -1,0 +1,15 @@
+[package]
+name = "green/accessibilityacademy"
+version = "0.1.0"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+
+[dependencies]
+React = "jsdotlua/react@^17.1.0"
+ReactRoblox = "jsdotlua/react-roblox@^17.1.0"
+#RoactCompat = "jsdotlua/roact-compat@^17.1.0"
+ReactSpring = "chriscerie/react-spring@^2.0.0"
+ReactErrorBoundary = "chriscerie/react-error-boundary@^0.2.0"
+
+Promise = "evaera/promise@^4"
+ColorUtils = "csqrl/colour-utils@1.4.1"
