@@ -13,3 +13,4 @@ ReactErrorBoundary = "chriscerie/react-error-boundary@^0.2.0"
 
 Promise = "evaera/promise@^4"
 ColorUtils = "csqrl/colour-utils@1.4.1"
+GlassmorphicUI = "boatbomber/glassmorphicui"
